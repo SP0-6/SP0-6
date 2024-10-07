@@ -13,12 +13,12 @@
 ### Projects 
 **Gota a Gota** 💧
 
-About: 
-🤖 This solution employs AI to provide precise predictions on precipitation, enabling proactive water resource planning and management. Besides, it allows people to get information about water in a straightforward way through an AI-powered ChatBot.
-🌍 In line with SDG 6 (Clean Water and Sanitation), it promotes sustainable water management practices, improving conservation efforts and optimizing water usage for greater efficiency.
-🥈 Awarded at Emprende U 2023!
+**About:** 
+- 🤖 This solution employs AI to provide precise predictions on precipitation, enabling proactive water resource planning and management. Besides, it allows people to get information about water in a straightforward way through an AI-powered ChatBot.
+- 🌍 In line with SDG 6 (Clean Water and Sanitation), it promotes sustainable water management practices, improving conservation efforts and optimizing water usage for greater efficiency.
+- 🥈 Awarded at Emprende U 2023!
 
-Website: [Gota a Gota](https://gota-a-gota.vercel.app)
+**Website:** [Gota a Gota](https://gota-a-gota.vercel.app)
 
 
 <!--
